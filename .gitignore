@@ -1,0 +1,14 @@
+# Ignore .DS_Store files (macOS)
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+/build/
+
+# Ignore sensitive configuration files
+config.ini
+
+# Ignore Node.js modules (JavaScript/Node.js)
+node_modules/
